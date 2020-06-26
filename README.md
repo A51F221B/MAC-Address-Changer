@@ -8,7 +8,7 @@ Options:
   -h, --help                 show this help message and exit
   -i INTERFACE,            --interface=INTERFACE
                             Name of interface
-  -m MAC, --mac=MAC     New Mac address
+  -m MAC, --mac=MAC          New Mac address
 
 Syntax: 
 sudo python3 Mac.py [--interface=?] [--mac=MAC you want to set]
