@@ -6,9 +6,13 @@
 ###### Mac.py [options]
 
 ## Options:
-  `-h, --help                 show this help message and exit`
-  `-i INTERFACE,              --interface=INTERFACE`
-                               `  Name of interface`
+   `-h, --help                 show this help message and exit`
+
+  
+
+  `-i INTERFACE,              --interface=INTERFACE` ` Name of interface`
+
+
  ` -m MAC, --mac=MAC            New Mac address`
 
 ## Syntax: 
