@@ -1,5 +1,5 @@
 # MAC Address changer 
-*This is a simple program to change MAC address.*
+**This is a simple program to change MAC address.**
 ## How it works:
 **$sudo python3 Mac.py --help**
 ## Usage:
